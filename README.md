@@ -1,6 +1,8 @@
 # stpm
 Fit flexible parametric survival models Use stpm And stpm2 And stpm3 With STATA 18
 
+https://www.youtube.com/watch?v=6kU-03JpxPQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
